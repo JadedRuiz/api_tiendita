@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" :  "nodemon/index.js"
+    "dev": "nodemon/index.js"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +15,12 @@
     "express": "^4.17.3",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0",
+    "sqlite3": "^5.0.8"
   }
 }
