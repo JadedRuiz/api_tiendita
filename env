@@ -1,0 +1,7 @@
+URLBASE=http://localhost:3300/
+#BASEDEDATOS
+PORT=3300
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=enrique1995
+DB_DATABASE=tiendita_db
